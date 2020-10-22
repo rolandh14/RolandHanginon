@@ -1,4 +1,6 @@
-![](image/logo.png)
+![](assets/logo.png)
+
+
 Game animation link:
 
 https://drive.google.com/file/d/1QGYgjxeQOUhm2wepBwlP6_uANE1LueE8/view?usp=sharing
